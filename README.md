@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates anomaly detection on a hyperthyroidism dataset, which includes both categorical and continuous features. Three unsupervised algorithms—Nearest Neighbors, DBSCAN, and Isolation Forest—are applied to detect anomalies. The results of each algorithm are compared to determine the most effective method for this dataset.
+This project demonstrates anomaly detection using unsupervised machine learning methods on a hyperthyroidism dataset, which includes both categorical and continuous features. Three unsupervised algorithms—Nearest Neighbors, DBSCAN, and Isolation Forest—are applied to detect anomalies. The results of each algorithm are compared to determine the most effective method for this dataset.
 
 **Authors:** Kerem Erciyes and Mustafa Soydan  
 **Affiliation:** Physics Department, University of Milan Bicocca, Milan, ITALY
