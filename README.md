@@ -59,13 +59,17 @@ To run this project, you'll need Python and the following libraries:
 ## Usage
 
 1. **Clone the repository:**
-
+   
+```bash
 git clone https://github.com/keremerciyes/Anomaly-Detection.git
 cd anomaly-detection
+```
 
 2. **Run the Jupyter Notebook:**
-
+   
+```bash
 jupyter notebook anomaly_detection.ipynb
+```
 
 3. **Dataset:**
 
